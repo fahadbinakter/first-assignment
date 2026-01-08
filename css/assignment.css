@@ -20,7 +20,7 @@
    margin: 0 auto;
    justify-content: space-between;
    align-items: center;
-   max-width: 1600px; 
+   max-width: 1140px; 
    background-color: rgb(255, 255, 255);
    padding: 10px;
 
@@ -69,7 +69,7 @@ nav .menu a{
 
 .hero {
     margin-top: 35px;
-    width: 1600px;
+    width: 1140px;
     height: 650px;
     align-items: center;
     margin: 0 auto;
@@ -83,12 +83,16 @@ nav .menu a{
 }
 
 .btn-box{
-    padding: 10px 10px 10px 10px;
-    border: none;
-    border-radius: 20px;
-    align-items: center;
-    margin-top: 120px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 100px;
     margin-bottom: 35px;
+    background-color: #ffffff;
+    padding: 25px 55px 25px 55px;
+    border-radius: 60px;
+    color: #30B868;
+    border: none;
+
 }
 
 .title{
@@ -140,3 +144,4 @@ a{
     color: #ffffff;
      
 }
+
